@@ -1,2 +1,0 @@
-# Mulesoftcourse
-Mulesoft course Basics
